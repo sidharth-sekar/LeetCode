@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sidharth-sekar/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/sidharth-sekar/LeetCode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sidharth-sekar/LeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sidharth-sekar/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
