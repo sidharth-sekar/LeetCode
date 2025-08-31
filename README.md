@@ -2,9 +2,9 @@
 A collection of my LeetCode solutions across multiple languages to strengthen problem-solving skills and ace coding interviews.
 This repository is auto-synced using LeetHub v2.
 
-📊 Stats
+# 📊 Stats
 
-Problems Solved: 7+
+# Problems Solved: ## 7+
 
 Languages Used: Multiple (Java, Python, C etc.)
 
