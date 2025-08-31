@@ -4,13 +4,10 @@ This repository is auto-synced using LeetHub v2.
 
 # 📊 Stats
 
-# Problems Solved: ## 7+
-
+Problems Solved: 7+
 Languages Used: Multiple (Java, Python, C etc.)
-
 Categories Covered: Arrays, Math, Dynamic Programming, Binary Search, and more.
 
-Latest Update: Yesterday
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
