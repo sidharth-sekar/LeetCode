@@ -1,4 +1,18 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+🚀 LeetCode Solutions
+A collection of my LeetCode solutions across multiple languages to strengthen problem-solving skills and ace coding interviews.
+This repository is auto-synced using LeetHub v2.
+
+📊 Stats
+
+Problems Solved: 7+
+
+Languages Used: Multiple (Java, Python, C etc.)
+
+Categories Covered: Arrays, Math, Dynamic Programming, Binary Search, and more.
+
+Latest Update: Yesterday
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
